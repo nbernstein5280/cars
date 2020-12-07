@@ -1,6 +1,9 @@
-Nate Bernstein
-cars.sh
-CENG 298
+Name: Nate Bernstein
+Student ID: 2369305
+Email: nbernstein@chapman.edu
+Class: CENG 298-01
+Assignment: cars
+
 
 # Application Purpose
 

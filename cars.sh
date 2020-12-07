@@ -1,6 +1,6 @@
+#! /bin/bash
 #cars.sh
 #Nate Bernstein
-#CENG 298
 
 num="0"
 
