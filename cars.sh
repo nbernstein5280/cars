@@ -1,3 +1,7 @@
+#cars.sh
+#Nate Bernstein
+#CENG 298
+
 num="0"
 
 while [[ "$num" -lt "3" ]]
@@ -14,6 +18,6 @@ do
 		"2" )
 			sort My_old_cars;;
 		"3" )
-			echo "Thanks!";;
+			echo "Goodbye";;
 	esac 
 done
